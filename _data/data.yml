@@ -99,30 +99,30 @@ experiences:
         company: PST.AG
         details: |
           Part of designing, developing, and testing Java projects at RDM - Backend Micro Services. <br>
-          Involved in Customs Data Processing using complex business requirements, designing and managing NiFi Flows with custom NiFi Processors. 
+          Involved in Customs Data Processing using complex business requirements, designing and managing NiFi Flows with custom NiFi Processors.  <br>
           Technologies used: Java 11, NiFi, SAP, XSLT, XSD, Python, Shell, SqLite, SQL.
 
       - role: Software Engineer
         time: Jul 2021 - Jul 2023
         company: E2open Software India Pvt Ltd
         details: |
-          Part of designing, developing, and testing Spring components on microservices with REST APIs. 
-          Handled deployments on Kubernetes, manually and using Ansible. 
+          Part of designing, developing, and testing Spring components on microservices with REST APIs.  <br>
+          Handled deployments on Kubernetes, manually and using Ansible.  <br>
           Technologies used: Java 11, Spring, Kubernetes, Swagger, MySQL, Elastic Search, NiFi.
 
       - role: Python Developer
         time: Jul 2020 - Jun 2021
         company: Nokia Corporation
         details: |
-          Designed and developed tools for automating various maintenance and report generation/collection tasks. 
-          Worked on 5G Registers UDM product Performance Automation. 
+          Designed and developed tools for automating various maintenance and report generation/collection tasks.  <br>
+          Worked on 5G Registers UDM product Performance Automation.  <br>
           Technologies used: Python, Docker, JMeter, BashTool.
 
       - role: Freelance Full Stack Web Developer
         time: Aug 2017 - 2019
         details: |
-          Designed and developed tools for automating various maintenance and report generation/collection tasks. 
-          Worked on 5G Registers UDM product Performance Automation. 
+          Designed and developed tools for automating various maintenance and report generation/collection tasks.  <br>
+          Worked on 5G Registers UDM product Performance Automation.  <br>
           Technologies used: Python, Docker, JMeter, BashTool.
 
 skills:
