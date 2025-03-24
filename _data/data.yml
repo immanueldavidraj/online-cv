@@ -98,7 +98,7 @@ experiences:
         time: Jul 2023 - Present
         company: PST.AG
         details: |
-          Part of designing, developing, and testing Java projects at RDM - Backend Micro Services. 
+          Part of designing, developing, and testing Java projects at RDM - Backend Micro Services. <br>
           Involved in Customs Data Processing using complex business requirements, designing and managing NiFi Flows with custom NiFi Processors. 
           Technologies used: Java 11, NiFi, SAP, XSLT, XSD, Python, Shell, SqLite, SQL.
 
