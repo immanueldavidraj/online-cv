@@ -144,17 +144,11 @@ skills:
         - name: Shell
           level: 75%
     
-        - name: MERN Stack
-          level: 70%
-    
         - name: SQL
           level: 90%
     
         - name: MongoDB
           level: 90%
-    
-        - name: PHP
-          level: 75%
     
         - name: jQuery & AJAX
           level: 80%
@@ -173,12 +167,6 @@ skills:
     
         - name: Linux
           level: 85%
-    
-        - name: Flutter
-          level: 70%
-    
-        - name: Android
-          level: 70%
     
         - name: Git & GitHub
           level: 95%
