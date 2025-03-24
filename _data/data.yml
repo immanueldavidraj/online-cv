@@ -72,9 +72,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Senior Developer at PST.AG with experience in designing, developing, and testing Java projects. 
-      Specialized in Customs Data Processing using complex business requirements, designing and managing NiFi Flows, 
-      and creating custom NiFi Processors. Proficient in Java 11, NiFi, SAP, XSLT, XSD, Python, Shell, SqLite, SQL.
+      6+ Experience as a R&D Software Engineer.<br>
+      Currently working extensively on various projects using Java, NiFi, Kubernetes, Elastic Search etc. <br>
+      Worked on a variety of bugs, Enhancements, and POC’s.<br>
+      Did on the job training for various skills (JavaScript, React.js, Python) that was required for POC's<br>
+      Strong information technology professional with a Master's Degree focused on Computer science and engineering with specialization in Artificial Engineering.
 education:
     title: Education
     info:
@@ -131,9 +133,15 @@ skills:
     toolset:
         - name: Java & Spring Boot
           level: 90%
-    
-        - name: Python & Django
+          
+        - name: NiFi
+          level: 90%
+          
+        - name: SAP GTS
           level: 95%
+          
+        - name: XSLT
+          level: 90%
     
         - name: C
           level: 80%
